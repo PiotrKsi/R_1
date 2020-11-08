@@ -457,3 +457,7 @@ Fibo(23)
 
 #Zadanie 2.9
 #Napisać funkcję fibonacciego bez uciekania się do rekurencji (sposobów jest kilka).
+
+
+m1 <- matrix(2^c(1:24), nrow=4, byrow=TRUE)
+View(m1)
